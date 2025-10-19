@@ -1,0 +1,5 @@
+--- REPORTE ITCA: TOP 3 AULAS POR HORAS ---
+Generado: 2025-10-19
+----------------------------------------
+- TEO1: 2 horas
+- LAB2: 2 horas

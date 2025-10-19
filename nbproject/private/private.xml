@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/modelo/Aula.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservasmodelo/enums/TipoEvento.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservasmodelo/enums/EstadoReserva.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/excepciones/ConflictoHorarioException.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/excepciones/NoEncontradoException.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/modelo/Reserva.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/app/GestorReservasApp.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/excepciones/ReglaNegocioException.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/servicios/GestorReservas.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservasmodelo/enums/TipoAula.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/modelo/ReservaClase.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/modelo/ReservaEvento.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/servicios/PersistenciaUtil.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/modelo/Validable.java</file>
+            <file>file:/C:/Users/bryan/Documents/NetBeansProjects/GestorReservasITCA/src/itcareservas/modelo/ReservaPractica.java</file>
+        </group>
+    </open-files>
+</project-private>
